@@ -1,0 +1,2 @@
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes.Android\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes.Android\obj\Debug\60\MarvelHeroes.Android.nuget.stamp

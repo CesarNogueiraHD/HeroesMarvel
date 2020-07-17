@@ -1,0 +1,1 @@
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes.UWP\MarvelHeroes.UWP.csproj;x86

@@ -1,0 +1,13 @@
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\bin\Debug\netstandard2.0\MarvelHeroes.deps.json
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\bin\Debug\netstandard2.0\MarvelHeroes.dll
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\bin\Debug\netstandard2.0\MarvelHeroes.pdb
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\MarvelHeroes.csprojAssemblyReference.cache
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\MarvelHeroes.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\MarvelHeroes.AssemblyInfoInputs.cache
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\MarvelHeroes.AssemblyInfo.cs
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\MarvelHeroes.dll
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\MarvelHeroes.pdb
+C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\obj\Debug\netstandard2.0\DetalhesPage.xaml.g.cs

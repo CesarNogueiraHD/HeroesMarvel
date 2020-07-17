@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\App.xaml</FilePath>
+      <Hash>4B-38-8E-DA-08-A0-10-41-8B-4B-0A-A0-C0-83-B6-7A</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\DetalhesPage.xaml</FilePath>
+      <Hash>64-54-13-52-28-FD-4B-B8-B6-F0-5F-6B-18-FB-AA-A5</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>C:\Users\cesar\Desktop\Workspace\C#\MarvelHeroes\MarvelHeroes\MarvelHeroes\MainPage.xaml</FilePath>
+      <Hash>0C-F8-DD-A8-9A-17-36-F2-88-14-B6-D0-7E-69-C3-B6</Hash>
+      <Properties>
+        <string>Title</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>
